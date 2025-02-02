@@ -36,44 +36,21 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Copilot Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 🛠️ Instruções de execução
+## 💻 Prompts Utilizados
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+### Prompt para criar o nome do podcast
+Você esta trabalhando como um roteirista para um podcast de humor voltando para o gênero musica RAP, e necessita dar um nome para o podcast. Me dê 5 sugestões de nomes para podcast que tem um teor animado e divertido
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+Regras:
 
-## 👨‍💻 Expert
+- O nome deve haver algo relacionado a cultura RAP brasileira
+- O nome deve ser curto e de fácil memorização
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+Regras Negativas: 
 
----
+- Não pode conter o nome de nenhum artista do RAP
+- Não pode conter palavras em inglês
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+### Prompt para criar a capa
+Crie uma imagem de uma pessoa negra com cabelo dreadlocks curto, vestindo uma camisa casual de cor escura. Ela está sorrindo de forma acolhedora e divertida, com um microfone de podcast profissional diante dela. A mesa à sua frente é de madeira clara, com alguns acessórios como fones de ouvido, um copo de água e talvez um notebook ao lado. Ao fundo, há um ambiente moderno e bem iluminado, com um toque aconchegante, como um estúdio de gravação de podcast, com paredes de tijolos à vista e algumas plantas para dar um toque de vida.
+
