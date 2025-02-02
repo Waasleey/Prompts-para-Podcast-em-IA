@@ -54,3 +54,26 @@ Regras Negativas:
 ### Prompt para criar a capa
 Crie uma imagem de uma pessoa negra com cabelo dreadlocks curto, vestindo uma camisa casual de cor escura. Ela está sorrindo de forma acolhedora e divertida, com um microfone de podcast profissional diante dela. A mesa à sua frente é de madeira clara, com alguns acessórios como fones de ouvido, um copo de água e talvez um notebook ao lado. Ao fundo, há um ambiente moderno e bem iluminado, com um toque aconchegante, como um estúdio de gravação de podcast, com paredes de tijolos à vista e algumas plantas para dar um toque de vida.
 
+### Prompt para gerar o roteiro
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast do gênero musical RAP e humor, focado em artistas underground e já estabelecidos no cenário. Cujo o nome é "Papo de Beco",  com o público alvo de ouvintes do gênero RAP
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'planeta novo'
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade do rap
+- no bloco [CURIOSIDADE 2] sobre um artista do ap
+- no bloco [FINALIZAÇÃO] indique o nome de um artista novo com uma despedida no final 'Eu sou Was e esse foi o Papo de Beco dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Was
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
